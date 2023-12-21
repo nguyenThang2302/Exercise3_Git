@@ -6,3 +6,5 @@ const detailPost = {
     "updatedAt": "yyyy",
     "deletedAt": "zzz"
 };
+
+// Done release v0.1.0
